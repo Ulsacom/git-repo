@@ -1,2 +1,0 @@
-print ln uzbek tiger
-print helloworld
