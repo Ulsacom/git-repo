@@ -1,0 +1,57 @@
+
+P
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/GeneralOperations"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:textSize="20sp"
+        android:layout_centerHorizontal="true"
+        android:text="General Operations" />
+
+
+    <Button
+        android:id="@+id/AllIncomes"
+        android:layout_width="187dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="48dp"
+        android:text="All Expenses"
+        android:textAllCaps="false"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:id="@+id/AllExpenses"
+        android:layout_width="187dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/AllIncomes"
+        android:text="All Icomes"
+        android:textAllCaps="false" />
+
+    <Button
+        android:layout_width="187dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/AllIncomes"
+        android:text="Reports"
+        android:textAllCaps="false"
+        android:layout_alignParentRight="true" />
+
+    <Button
+        android:layout_width="187dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/AllIncomes"
+        android:text="Categories"
+        android:textAllCaps="false"
+        android:layout_alignParentLeft="true" />
+
+
+</RelativeLayout>

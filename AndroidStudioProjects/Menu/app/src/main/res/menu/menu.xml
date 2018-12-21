@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="@string/item"
+        app:showAsAction="withText"
+        >
+
+    </item>
+    <item
+        android:id="@+id/setting1s1"
+        android:orderInCategory="100"
+        android:title="@string/item"
+        app:showAsAction="withText"
+        >
+
+    </item>
+    <item
+        android:id="@+id/setting1s2"
+        android:orderInCategory="100"
+        android:title="@string/item"
+        app:showAsAction="withText"
+        >
+
+    </item>
+    <item
+        android:id="@+id/setting1s3"
+        android:orderInCategory="100"
+        android:title="@string/item"
+        app:showAsAction="withText"
+        >
+
+    </item>
+    <item
+        android:id="@+id/setting1s4"
+        android:orderInCategory="100"
+        android:title="@string/item"
+        app:showAsAction="withText"
+        >
+
+    </item>
+    <item
+        android:id="@+id/setting1s5"
+        android:orderInCategory="100"
+        android:title="@string/item"
+        app:showAsAction="withText"
+        >
+
+    </item>
+    <item
+        android:id="@+id/setting1s6"
+        android:orderInCategory="100"
+        android:title="@string/item"
+        app:showAsAction="withText"
+        >
+
+    </item>
+
+</menu>

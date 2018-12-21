@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="item">Настройки</string>
+    <string name="hello_world">Hello world</string>
+</resources>
